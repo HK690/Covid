@@ -65,7 +65,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/HK690/COVID.git
-cd COVID-19-India-Analysis
+cd COVID
 ```
 
 Install the required libraries:
